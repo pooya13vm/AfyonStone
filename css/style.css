@@ -473,7 +473,8 @@ a:focus {
   margin-bottom: 5px;
 }
 
-.section-header h2 {
+.section-header h2,
+.title {
   margin: 0;
   position: relative;
   font-size: 2.2rem;
